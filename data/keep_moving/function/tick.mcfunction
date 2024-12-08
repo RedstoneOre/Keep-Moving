@@ -1,0 +1,1 @@
+execute as @a[predicate=!keep_moving:is_moving] run function keep_moving:player_stop

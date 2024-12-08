@@ -1,0 +1,1 @@
+scoreboard objectives add keep_moving.lastdeath minecraft.custom:minecraft.time_since_death

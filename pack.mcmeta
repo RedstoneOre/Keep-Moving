@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "description": {
+      "bold": true,
+      "color": "red",
+      "font": "minecraft:include/default",
+      "text": "Don't Stop Moving!"
+    },
+    "pack_format": 48,
+    "supported_formats": [12, 65]
+  }
+}
